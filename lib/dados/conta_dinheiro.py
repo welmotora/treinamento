@@ -1,0 +1,1 @@
+DESCRICAO = "Conta dinherio"

@@ -1,3 +1,3 @@
-from modulo_login.testbase.testbase_login import *
+from modulos.financeiro.testbase.t_conta_dinherio import executar_testes_conta_dinheiro
 
-logando_no_adaptei()
+executar_testes_conta_dinheiro()
