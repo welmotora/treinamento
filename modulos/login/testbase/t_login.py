@@ -1,6 +1,6 @@
 from lib.dados.conexao import *
-from lib.dsl.liguagem import *
 from lib.dados.login import *
+from lib.dsl.liguagem import *
 from modulos.login.formulario.f_login import *
 
 

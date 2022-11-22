@@ -1,3 +1,3 @@
-SITUAÇAO_ABERTA = "Aberta"
-SITUAÇAO_FECHADA = "Fechada"
-SITUAÇAO_ENCERRADA = "Encerrada"
+SITUACAO_ABERTA = "Aberta"
+SITUACAO_FECHADA = "Fechada"
+SITUACAO_ENCERRADA = "Encerrada"
