@@ -1,0 +1,13 @@
+{
+
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false , 
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.pylintArgs": [
+        "--disable=C0114",
+        "--disable=C0115",
+        "--disable=C0116",
+    ]
+
+ 
+}
